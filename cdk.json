@@ -1,0 +1,3 @@
+{
+  "app": "node build/bin/lambda-cdk.js"
+}
